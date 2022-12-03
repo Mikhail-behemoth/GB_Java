@@ -94,7 +94,6 @@ public class HW_3 {
         Collections.sort(array1);
         System.out.println(array1);
 
-
         //11. *Сравнить время работы тысячи повторений пункта 3 для ArrayList и LinkedList.
         System.out.println();
         System.out.println("11. *Сравнить время работы тысячи повторений пункта 3 для ArrayList и LinkedList.");
